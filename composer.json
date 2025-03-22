@@ -1,0 +1,11 @@
+{
+    "name": "hamzah/php-mvc",
+    "autoload": {
+        "psr-4": {
+            "Hamzah\\PhpMvc\\": "src/",            
+            "app\\": "./"
+        }        
+    },
+  
+    "require": {}
+}
